@@ -6,16 +6,19 @@
 # PRI-Rebuild-Laravel
 Description of this project and a little history as to why it exists
 
-# What Is This and Why
+## What Is This and Why
 This is a rebuild of the [Phoenix Revolution, Inc. website](www.phoenixrevolutioninc.com) (current website is not built with this framework, it was built with SquareSpace for various reasons at the time) using the PHP Laravel [5.2] Framework (I really wanted to learn this framework and as I continue to use it I have really come to like it a lot, especially its ease of use and superb documentation), started based on the video tutorial series by [J. Alexander Curtis](https://jacurtis.com/) ([twitter](https://twitter.com/_jacurtis)). He does a fantasic job walking through everything you would need to build your own website with this framework (CMS/blogging platform is the focus). The PRI site was in need of a CMS area and Laravel answered everything I needed to create that for them without the need to completey write the entire backend from scratch (plus the built-in Blade templating system is simply awesome for creating the front end pages!!). The learning curve is not very steep at all, especially with the very well written documentation as I mentioned, if you have a good general grasp on PHP.
 
+---
 *You can check out his [DevMarketer channel on YouTube](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) and the [DevMarketer website](https://devmarketer.io/) for all of his fantastic video tutorials and more! I HIGHLY recommend checking out the DevMarketer channel and website.*
+
+---
 
 Anyway... This originally started off as a fake blog/cms site that was built using the PHP framework Laravel, version 5.2, for educational purposes on my free time. As I went through the [tutorials](https://devmarketer.io/), I decided that I was going to slowly start integrating material from a website I already had so I could use this as something more practical other than just an educational exploration. Then shortly after I began this series, I was asked about rebuilding the [Phoenix Revolution website](www.phoenixrevolutioninc.com), and part of that site included a blogging/articles platform ... Perfect! So I started a new Laravel app and created this. There are still some of my other random files in here from the tutorial series that I have not fully removed yet, but they will be phased out as I move along.
 
 So, long story short, this will be the initial commit because this site will be hosted on shared hosting (not my decision unfortunately) and from my research, it's going to be a lot easier to do it (upload to and function correctly) from a github account.
 
-# Feel Free to Help!
+## Feel Free to Help!
 If anyone wants to help me make this a bad ass site, let me know, I have a list of features I want (some are a need) to add but for now, as I am the lone developer on this and it's on my "free" time, there will be changes probably made in bursts of frequency. Don't hesitate to shoot me an email (jay@jbardeleben.com) if interested.
 
 Cheers!
